@@ -1,0 +1,5 @@
+1. Make server
+2. Make groups
+3. Make Automated processes
+4. Make website
+5. Make presentation
